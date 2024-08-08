@@ -9,3 +9,8 @@ Foodie delight project
         - add restuarant info     - POST   - /restaurants
         - update restaurant info  - PUT    - /restaurants/:id
         - delete restaurant info  - DELETE - /restaurants/:id
+
+### Front-end
+    - npm i
+    - npm run start
+    - We can add, delete, update the records
